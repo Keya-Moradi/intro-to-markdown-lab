@@ -1,6 +1,7 @@
+# Writing a Function in JavaScript
+
 ![JavaScript Coding](./images/JavaScript.webp)
 
-# Writing a Function in JavaScript
 
 In JavaScript, functions are blocks of reusable code. They allow you to bundle functionality, make it more readable, and avoid repetition. Here's a brief tutorial on writing an arrow function in JavaScript.
 
